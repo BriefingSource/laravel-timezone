@@ -1,12 +1,16 @@
 {
     "name": "briefingsource/laravel-timezone",
     "license": "MIT",
-    "description": "Timezone storage and retrieval for Laravel. Forked from jamesmills/laravel-timezone and updated for Laravel 11.",
+    "description": "Timezone storage and retrieval for Laravel. Forked from jamesmills/laravel-timezone and updated for Laravel 11 and 12.",
     "keywords": [
         "laravel",
         "timezone"
     ],
     "authors": [
+        {
+            "name": "Shaiq Ul Hassan",
+            "email": "shaiq"
+        },
         {
             "name": "James Mills",
             "email": "james@jamesmills.co.uk"
